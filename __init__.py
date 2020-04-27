@@ -27,4 +27,4 @@ class ThemeSong(MycroftSkill):
         player.pause() 
 
 def create_skill():
-    return ThemeSong() t
+    return ThemeSong()
